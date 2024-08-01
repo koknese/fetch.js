@@ -6,7 +6,7 @@
 ## Installation
 Make sure you have node.js installed!
 1. Clone the repo
-2. Cd into the repo
+2. CD into the repo
 3. `npm install`
 4. `node index.js`
 5. Profit
