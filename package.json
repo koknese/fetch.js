@@ -1,0 +1,20 @@
+{
+  "name": "fetch.js",
+  "version": "0.0.1",
+  "description": "A Javascript system fetch util",
+  "main": "index.js",
+  "type": "module",
+  "author": "Dainis Koknese",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "align-text": "^1.0.2",
+    "center-align": "^1.0.1",
+    "chalk": "^5.3.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "babel-loader": "^9.1.3"
+  }
+}
