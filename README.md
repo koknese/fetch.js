@@ -19,4 +19,4 @@ Currently we have only the asciis of
 
 Currently all ASCIIs are from pfetch-rs
 ## Contributing
-Feel free to contribute! If you want to contribute to ASCIIs, check the [logos.js](https://github.com/gatesbydude/fetch.js/blob/main/index.js) file, it has a commented link to a site that converts ASCIIs into JS.
+Feel free to contribute! If you want to contribute to ASCIIs, check the [logos.js](https://github.com/gatesbydude/fetch.js/blob/main/logos.js) file, it has a commented link to a site that converts ASCIIs into JS.
