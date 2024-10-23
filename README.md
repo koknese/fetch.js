@@ -1,4 +1,7 @@
 # fetch.js
+
+## archived because i will not continue work on this project and it is broken on some machines
+
 **A simple, easily customizable fetch utility built with JavaScript**
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/hKDb5xW/fetch.png" alt="fetch" border="0"></a>
